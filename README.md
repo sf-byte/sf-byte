@@ -14,7 +14,7 @@ I'm a **student developer & ethical hacker** passionate about building, breaking
 -  **Languages I Love:**  
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=yellow)  
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-  (and always curious to learn more!)
+  (and curious to learn more!)
 
 -  **Special Interests:**  
     - CTFs & Bug Bounties  
