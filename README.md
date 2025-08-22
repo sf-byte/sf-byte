@@ -31,6 +31,9 @@ Big fan of his approach to ethical hacking and CTF challenges, always aiming to 
 - [![John Hammond](https://img.shields.io/badge/John%20Hammond-000000?style=flat&logo=github&logoColor=white)](https://github.com/JohnHammond)  
 Known for breaking down complex malware and security research in a way that’s both practical and entertaining, making you actually want to dive in rather than just nod along.
 
+- [![Nosson P](https://img.shields.io/badge/Nosson%20P-000000?style=flat&logo=github&logoColor=white)](https://github.com/nosson-p)  
+  The one who actually introduced me to both coding and hacking.
+
 ---
 
 ## 🛠 Skills
